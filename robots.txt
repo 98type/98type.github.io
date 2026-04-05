@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://98type.github.io/sitemap.xml
